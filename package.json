@@ -1,0 +1,14 @@
+{
+  "name": "silkyspeed-mods",
+  "version": "0.0.1",
+  "description": "Silky Speed is a service that measures website performance, search engine optimization and accessibility.",
+  "homepage": "https://silkyspeed.com",
+  "bugs": "https://github.com/TuspeDesign/silkyspeed-plugins/issues",
+  "author": {
+    "name": "Timo Anttila",
+    "email": "hello@silkyspeed.com",
+    "url": "https://timoanttila.com"
+  },
+  "private": true,
+  "license": "GNU AGPLv3"
+}
